@@ -1,5 +1,5 @@
 # Image-Captioning
-A Neural Network trained on MS-COCO to caption images. This is the second project of the [*Udacity Computer Vision Expert Nanodegree*](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
+A Neural Network trained on MS-COCO to caption images. This is the second project of the [*Udacity Computer Vision Nanodegree*](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
 
 ### Architecture
 
@@ -23,7 +23,9 @@ These are the results after 3 epochs of training
 
 ___
 
-In order to duplicate these results, consider that the project is structured as a series of Jupyter **notebooks** that are designed to be completed in **sequential order** (`0_Dataset.ipynb, 1_Preliminaries.ipynb, 2_Training.ipynb, 3_Inference.ipynb`). Some code is give, but the core for understanding it is left blank. These notebooks are completed by my observations.
+In order to duplicate these results, consider that the project is structured as a series of Jupyter **notebooks** that are designed to be completed in **sequential order** (`0_Dataset.ipynb, 1_Preliminaries.ipynb, 2_Training.ipynb, 3_Inference.ipynb`). Some code is give, but the core for understanding it is left blank. These notebooks are completed by my observations. 
+You use them, unzip the archive found in the _Notebooks_ directory.
+
 
 
 ### Requirements
